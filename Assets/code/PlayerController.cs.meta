@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8d5e079e76b4eb43b2dddc9d2fd012c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - textoVidas: {instanceID: 0}
+  - textoPowerUps: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
